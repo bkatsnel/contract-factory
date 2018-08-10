@@ -12,7 +12,7 @@
   "rpc": {
     // Default RPC configuration.
     "host": "localhost",
-    "port": 8545,
+    "port": 9545,
     "gas": 4000000
   },
   "mocha":{
